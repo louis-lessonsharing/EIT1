@@ -1,3 +1,13 @@
+h1 {
+    font-style: italic;
+    color: #750909;
+    font-size: 50;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
 body {
     background-color: burlywood;
 }
