@@ -1,0 +1,9 @@
+Faire une branch en local avec un nouveau dossier comportent votre travail de site perso
+
+nom du dossier : votre pseudo github
+
+==> au minimum 1 commit
+
+dans ce dossier changer le nom de la page html => index.html
+
+==> un autre commit
