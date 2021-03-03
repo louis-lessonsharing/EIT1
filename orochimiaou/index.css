@@ -38,7 +38,10 @@ body {
     float:right; 
 }
 
-.linkedin {
-    width:50x;
-    height:50px;
+#right:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+#left:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0.2);
 }
