@@ -1,0 +1,34 @@
+<DOCTYPE>
+    <HTML>
+         <HEAD>
+             <title>Ma page web</title>
+             <meta charset="utf-8">
+             <link rel="stylesheet" href="style.css">
+         </HEAD>
+    <BODY>
+        <H1> <b><u>Présentation de la formation</u></b> </H1> 
+          <p>
+              Mauris eget diam a augue ornare dignissim. Sed dignissim semper enim ac egestas. 
+Sed euismod purus lectus, tempor vestibulum eros pharetra eget. 
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+ Quisque volutpat venenatis leo nec bibendum. Aliquam in odio sem. Aenean luctus erat nec erat vestibulum, vitae rhoncus arcu scelerisque. 
+Proin ut maximus justo. Praesent dapibus diam et consequat gravida. Quisque sed lacus tellus.
+          </p>
+
+          <p>
+Suspendisse felis ipsum, scelerisque non urna sit amet, vestibulum facilisis velit. Ut non ligula condimentum, aliquet urna quis, blandit velit. 
+Nunc nec mollis felis. Donec bibendum nibh ac volutpat blandit. Fusce a hendrerit turpis. Curabitur maximus tempor maximus. 
+Nulla in eros sit amet odio finibus maximus. Vivamus sed molestie dui, nec suscipit erat. Donec ac erat nec dui ullamcorper tincidunt non non leo.
+
+          </p> 
+                 
+          <ul>
+            <li><a href="simon.html">Simon</a></li>
+            <li><a href="maya.html">Maya</a></li>
+            <li><a href="breil.html">Beil</a></li>
+            <li><a href="baudouin.html">Baudouin</a></li>
+            <li><a href="myriam.html">Myriam</a></li>
+          </ul> 
+    </BODY>
+
+    </HTML>
